@@ -18,7 +18,7 @@ Otrzymano także dokładny wzór na bezwarunkowe prawdopodobieństwo ruiny po ch
 Okazało się, że wystąpienie wcześniejszej ruiny istotnie zwiększa prawdopodobieństwo ponownej
 w nieskończonym horyzoncie czasowym przy coraz większym u.
 
-# Summary in english
+# Summary in English
 One of the fundamental models describing the activity of an insurance company is the risk process. It describes how the company’s capital changes, taking into account constant premium income and random claim payments. This master’s thesis investigates a risk process based on a standard Brownian motion, focusing with particular on the asymptotic properties of the first time of ruin as the initial capital u tends to infinity.
 
 First, an exact formula is derived for the probability of ruin before time t, under the condition that ruin occurs at all. Next the asymptotic properties of the resulting expression are examined with respect to time t and the initial capital u.
